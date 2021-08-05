@@ -1,0 +1,107 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-07-09T16:39:32.325Z",
+        "before": [
+          {
+            "result": {
+              "duration": 981000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.qa.test.base.TestBase.before()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "Verify user able to read place details",
+        "description": "",
+        "id": "google-map-crud-operations;verify-user-able-to-read-place-details;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 4000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.qa.test.base.TestBase.after(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 12000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user construct get request with \"get.place.id\" and \"search.key\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"get.place.id\"",
+                  "offset": 32
+                },
+                {
+                  "val": "\"search.key\"",
+                  "offset": 51
+                }
+              ],
+              "location": "com.qa.test.steps.GoogleMapStepDefinitions.user_construct_get_request_with_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 32268000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user verifies get response with \"status.code\" and \"get.response\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"status.code\"",
+                  "offset": 32
+                },
+                {
+                  "val": "\"get.response\"",
+                  "offset": 50
+                }
+              ],
+              "location": "com.qa.test.steps.GoogleMapStepDefinitions.user_verifies_get_response_with_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@googleMap"
+          },
+          {
+            "name": "@get"
+          }
+        ]
+      }
+    ],
+    "name": "Google Map CRUD Operations",
+    "description": "",
+    "id": "google-map-crud-operations",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/VerifyUserAbleToPerformCRUDOperationsOnGoogleMap.feature",
+    "tags": [
+      {
+        "name": "@googleMap",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

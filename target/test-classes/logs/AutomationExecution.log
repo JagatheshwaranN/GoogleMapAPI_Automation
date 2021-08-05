@@ -1,0 +1,297 @@
+26-06-2021 10:06:82 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 10:06:133 INFO  TestBase :81 - Error occured while retrieve data from property file
+java.lang.NullPointerException
+26-06-2021 10:06:168 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 10:06:294 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 10:06:653 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 10:06:974 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 10:06:532 INFO  TestBase :44 - PASSED ***** : Verify user able to get place details
+26-06-2021 10:06:787 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 10:06:910 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 10:06:900 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 10:06:325 INFO  TestBase :44 - PASSED ***** : Verify user able to get place details
+26-06-2021 11:06:521 INFO  TestBase :81 - Error occured while retrieve data from property file
+java.lang.NullPointerException
+26-06-2021 11:06:927 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 11:06:996 INFO  TestBase :44 - PASSED ***** : Verify user able to delete place details
+26-06-2021 11:06:793 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 11:06:842 INFO  TestBase :44 - PASSED ***** : Verify user able to delete place details
+26-06-2021 11:06:379 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 11:06:407 INFO  TestBase :44 - PASSED ***** : Verify user able to delete place details
+26-06-2021 11:06:698 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 11:06:577 INFO  TestBase :44 - PASSED ***** : Verify user able to delete place details
+26-06-2021 11:06:636 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 11:06:90 INFO  TestBase :44 - PASSED ***** : Verify user able to delete place details
+26-06-2021 12:06:544 INFO  TestBase :81 - Error occured while retrieve data from property file
+java.lang.NullPointerException
+26-06-2021 12:06:562 INFO  TestBase :81 - Error occured while retrieve data from property file
+java.lang.NullPointerException
+26-06-2021 12:06:996 INFO  TestBase :81 - Error occured while retrieve data from property file
+java.lang.NullPointerException
+26-06-2021 13:06:204 INFO  TestBase :81 - Error occured while retrieve data from property file
+java.lang.NullPointerException
+26-06-2021 13:06:520 INFO  TestBase :81 - Error occured while retrieve data from property file
+java.lang.NullPointerException
+26-06-2021 13:06:153 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 13:06:534 INFO  TestBase :44 - PASSED ***** : Verify user able to post place details
+26-06-2021 13:06:936 INFO  TestBase :81 - Error occured while retrieve data from property file
+java.lang.NullPointerException
+26-06-2021 13:06:61 INFO  TestBase :81 - Error occured while retrieve data from property file
+java.lang.NullPointerException
+26-06-2021 13:06:242 INFO  TestBase :81 - Error occured while retrieve data from property file
+java.lang.NullPointerException
+26-06-2021 13:06:73 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 13:06:74 INFO  TestBase :44 - PASSED ***** : Verify user able to put place details
+26-06-2021 14:06:277 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 14:06:29 INFO  TestBase :44 - PASSED ***** : Verify user able to put place details
+26-06-2021 14:06:854 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 14:06:764 INFO  TestBase :44 - PASSED ***** : Verify user able to put place details
+26-06-2021 14:06:994 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 14:06:408 INFO  TestBase :44 - PASSED ***** : Verify user able to put place details
+26-06-2021 14:06:832 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 14:06:662 INFO  TestBase :44 - PASSED ***** : Verify user able to put place details
+26-06-2021 14:06:556 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 14:06:865 INFO  TestBase :44 - PASSED ***** : Verify user able to put place details
+26-06-2021 14:06:630 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 14:06:714 INFO  TestBase :44 - PASSED ***** : Verify user able to put place details
+26-06-2021 14:06:680 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 14:06:217 INFO  TestBase :44 - PASSED ***** : Verify user able to post place details
+26-06-2021 14:06:681 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 14:06:321 INFO  TestBase :44 - PASSED ***** : Verify user able to post place details
+26-06-2021 14:06:376 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 14:06:902 INFO  TestBase :44 - PASSED ***** : Verify user able to post place details
+26-06-2021 14:06:203 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 14:06:308 INFO  TestBase :44 - PASSED ***** : Verify user able to put place details
+26-06-2021 14:06:822 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 14:06:418 INFO  TestBase :42 - FAILED ***** : Verify user able to post place details
+26-06-2021 15:06:637 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:668 INFO  ReusableFunction :35 - $_Post_Request_$ : https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+26-06-2021 15:06:894 INFO  ReusableFunction :66 - $_Response_From_API_$ : {"status":"OK","place_id":"9410c8fc2add6c7de7720539d22144e1","scope":"APP","reference":"c7e30622afcde60d68c596224ee8bbd6c7e30622afcde60d68c596224ee8bbd6","id":"c7e30622afcde60d68c596224ee8bbd6"}
+26-06-2021 15:06:353 INFO  TestBase :44 - PASSED ***** : Verify user able to post place details
+26-06-2021 15:06:369 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:384 INFO  ReusableFunction :84 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=null&key=qaclick123
+26-06-2021 15:06:603 INFO  ReusableFunction :96 - $_Response_From_API_$ : {"msg":"Get operation failed, looks like place_id  doesn't exists"}
+26-06-2021 15:06:629 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 15:06:660 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:660 INFO  ReusableFunction :119 - $_Put_Request_$ : https://rahulshettyacademy.com/maps/api/place/update/json?place_id=null&key=qaclick123
+26-06-2021 15:06:113 INFO  ReusableFunction :141 - $_Response_From_API_$ : 
+26-06-2021 15:06:129 INFO  ReusableFunction :146 - Error occured while check put response
+io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+26-06-2021 15:06:129 INFO  TestBase :42 - FAILED ***** : Verify user able to put place details
+26-06-2021 15:06:144 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:144 INFO  ReusableFunction :154 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+26-06-2021 15:06:660 INFO  ReusableFunction :173 - $_Response_From_API_$ : 
+26-06-2021 15:06:666 INFO  ReusableFunction :178 - Error occured while check delete response
+io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+26-06-2021 15:06:668 INFO  TestBase :42 - FAILED ***** : Verify user able to delete place details
+26-06-2021 15:06:700 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:716 INFO  ReusableFunction :35 - $_Post_Request_$ : https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+26-06-2021 15:06:14 INFO  ReusableFunction :66 - $_Response_From_API_$ : {"status":"OK","place_id":"ef1de4d458c0c179ae3347fe108bddf1","scope":"APP","reference":"6d1d43dc576ec5133099a1f2a47885a86d1d43dc576ec5133099a1f2a47885a8","id":"6d1d43dc576ec5133099a1f2a47885a8"}
+26-06-2021 15:06:450 INFO  TestBase :44 - PASSED ***** : Verify user able to post place details
+26-06-2021 15:06:497 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:497 INFO  ReusableFunction :86 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=null&key=qaclick123
+26-06-2021 15:06:732 INFO  ReusableFunction :98 - $_Response_From_API_$ : {"msg":"Get operation failed, looks like place_id  doesn't exists"}
+26-06-2021 15:06:744 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 15:06:760 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:760 INFO  ReusableFunction :121 - $_Put_Request_$ : https://rahulshettyacademy.com/maps/api/place/update/json?place_id=null&key=qaclick123
+26-06-2021 15:06:213 INFO  ReusableFunction :143 - $_Response_From_API_$ : 
+26-06-2021 15:06:213 INFO  ReusableFunction :148 - Error occured while check put response
+io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+26-06-2021 15:06:213 INFO  TestBase :42 - FAILED ***** : Verify user able to put place details
+26-06-2021 15:06:228 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:228 INFO  ReusableFunction :156 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+26-06-2021 15:06:681 INFO  ReusableFunction :175 - $_Response_From_API_$ : 
+26-06-2021 15:06:681 INFO  ReusableFunction :180 - Error occured while check delete response
+io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+26-06-2021 15:06:681 INFO  TestBase :42 - FAILED ***** : Verify user able to delete place details
+26-06-2021 15:06:737 INFO  TestBase :81 - Error occured while retrieve data from property file
+java.lang.NullPointerException
+26-06-2021 15:06:894 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:910 INFO  ReusableFunction :35 - $_Post_Request_$ : https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+26-06-2021 15:06:644 INFO  ReusableFunction :68 - $_Response_From_API_$ : {"status":"OK","place_id":"85a37ff683bdbfb4a6bd9ab8a37e78b8","scope":"APP","reference":"058165028ef069a48fbdc2405681bc3e058165028ef069a48fbdc2405681bc3e","id":"058165028ef069a48fbdc2405681bc3e"}
+26-06-2021 15:06:68 INFO  TestBase :44 - PASSED ***** : Verify user able to post place details
+26-06-2021 15:06:100 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:100 INFO  ReusableFunction :87 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=f7c8c9a4ca5f0942459e356968ab2d93&key=qaclick123
+26-06-2021 15:06:319 INFO  ReusableFunction :99 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 15:06:339 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 15:06:370 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:370 INFO  ReusableFunction :122 - $_Put_Request_$ : https://rahulshettyacademy.com/maps/api/place/update/json?place_id=097dd03e76efb6f9ffeac2b8cdd89de6&key=qaclick123
+26-06-2021 15:06:761 INFO  ReusableFunction :146 - $_Response_From_API_$ : {"msg":"Update address operation failed, looks like the data doesn't exists"}
+26-06-2021 15:06:777 INFO  TestBase :42 - FAILED ***** : Verify user able to put place details
+26-06-2021 15:06:795 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:795 INFO  ReusableFunction :159 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+26-06-2021 15:06:186 INFO  ReusableFunction :180 - $_Response_From_API_$ : {"status":"OK"}
+26-06-2021 15:06:212 INFO  TestBase :44 - PASSED ***** : Verify user able to delete place details
+26-06-2021 15:06:441 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:472 INFO  ReusableFunction :35 - $_Post_Request_$ : https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+26-06-2021 15:06:410 INFO  ReusableFunction :68 - $_Response_From_API_$ : {"status":"OK","place_id":"4a4dc0775806c5ffe83ebf9c236f82e4","scope":"APP","reference":"992851844fb0569e0408b0825aa6fffc992851844fb0569e0408b0825aa6fffc","id":"992851844fb0569e0408b0825aa6fffc"}
+26-06-2021 15:06:464 INFO  TestBase :44 - PASSED ***** : Verify user able to post place details
+26-06-2021 15:06:496 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:496 INFO  ReusableFunction :87 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=f7c8c9a4ca5f0942459e356968ab2d93&key=qaclick123
+26-06-2021 15:06:825 INFO  ReusableFunction :99 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 15:06:846 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 15:06:862 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:862 INFO  ReusableFunction :122 - $_Put_Request_$ : https://rahulshettyacademy.com/maps/api/place/update/json?place_id=097dd03e76efb6f9ffeac2b8cdd89de6&key=qaclick123
+26-06-2021 15:06:378 INFO  ReusableFunction :146 - $_Response_From_API_$ : {"msg":"Update address operation failed, looks like the data doesn't exists"}
+26-06-2021 15:06:389 INFO  TestBase :42 - FAILED ***** : Verify user able to put place details
+26-06-2021 15:06:406 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:406 INFO  ReusableFunction :159 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+26-06-2021 15:06:781 INFO  ReusableFunction :180 - $_Response_From_API_$ : {"msg":"Delete operation failed, looks like the data doesn't exists"}
+26-06-2021 15:06:787 INFO  TestBase :42 - FAILED ***** : Verify user able to delete place details
+26-06-2021 15:06:331 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:362 INFO  ReusableFunction :35 - $_Post_Request_$ : https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+26-06-2021 15:06:911 INFO  ReusableFunction :68 - $_Response_From_API_$ : {"status":"OK","place_id":"1129c45ce970ca2a1bbd23711fe5b4b7","scope":"APP","reference":"af83b7697cb52de64c7aa1024c6fefd8af83b7697cb52de64c7aa1024c6fefd8","id":"af83b7697cb52de64c7aa1024c6fefd8"}
+26-06-2021 15:06:311 INFO  TestBase :44 - PASSED ***** : Verify user able to post place details
+26-06-2021 15:06:342 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:342 INFO  ReusableFunction :87 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=f7c8c9a4ca5f0942459e356968ab2d93&key=qaclick123
+26-06-2021 15:06:890 INFO  ReusableFunction :99 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 15:06:939 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 15:06:954 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:954 INFO  ReusableFunction :123 - $_Put_Request_$ : https://rahulshettyacademy.com/maps/api/place/update/json?place_id=097dd03e76efb6f9ffeac2b8cdd89de6&key=qaclick123
+26-06-2021 15:06:895 INFO  ReusableFunction :147 - $_Response_From_API_$ : {"msg":"Update address operation failed, looks like the data doesn't exists"}
+26-06-2021 15:06:904 INFO  TestBase :42 - FAILED ***** : Verify user able to put place details
+26-06-2021 15:06:920 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 15:06:920 INFO  ReusableFunction :160 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+26-06-2021 15:06:530 INFO  ReusableFunction :181 - $_Response_From_API_$ : {"msg":"Delete operation failed, looks like the data doesn't exists"}
+26-06-2021 15:06:539 INFO  TestBase :42 - FAILED ***** : Verify user able to delete place details
+26-06-2021 16:06:809 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:824 INFO  ReusableFunction :87 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=f7c8c9a4ca5f0942459e356968ab2d93&key=qaclick123
+26-06-2021 16:06:359 INFO  ReusableFunction :99 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 16:06:552 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 16:06:199 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:215 INFO  ReusableFunction :87 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=f7c8c9a4ca5f0942459e356968ab2d93&key=qaclick123
+26-06-2021 16:06:176 INFO  ReusableFunction :99 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 16:06:806 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 16:06:286 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:302 INFO  ReusableFunction :87 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=f7c8c9a4ca5f0942459e356968ab2d93&key=qaclick123
+26-06-2021 16:06:584 INFO  ReusableFunction :99 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 16:06:766 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 16:06:635 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:650 INFO  ReusableFunction :124 - $_Put_Request_$ : https://rahulshettyacademy.com/maps/api/place/update/json?place_id=097dd03e76efb6f9ffeac2b8cdd89de6&key=qaclick123
+26-06-2021 16:06:51 INFO  ReusableFunction :148 - $_Response_From_API_$ : {"msg":"Update address operation failed, looks like the data doesn't exists"}
+26-06-2021 16:06:192 INFO  TestBase :42 - FAILED ***** : Verify user able to put place details
+26-06-2021 16:06:55 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:71 INFO  ReusableFunction :124 - $_Put_Request_$ : https://rahulshettyacademy.com/maps/api/place/update/json?place_id=097dd03e76efb6f9ffeac2b8cdd89de6&key=qaclick123
+26-06-2021 16:06:120 INFO  ReusableFunction :149 - $_Response_From_API_$ : {"msg":"Update address operation failed, looks like the data doesn't exists"}
+26-06-2021 16:06:306 INFO  TestBase :42 - FAILED ***** : Verify user able to put place details
+26-06-2021 16:06:883 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:899 INFO  ReusableFunction :124 - $_Put_Request_$ : https://rahulshettyacademy.com/maps/api/place/update/json?place_id=097dd03e76efb6f9ffeac2b8cdd89de6&key=qaclick123
+26-06-2021 16:06:568 INFO  ReusableFunction :149 - $_Response_From_API_$ : {"msg":"Address successfully updated"}
+26-06-2021 16:06:823 INFO  TestBase :44 - PASSED ***** : Verify user able to put place details
+26-06-2021 16:06:79 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:94 INFO  ReusableFunction :162 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+26-06-2021 16:06:345 INFO  ReusableFunction :183 - $_Response_From_API_$ : {"msg":"Delete operation failed, looks like the data doesn't exists"}
+26-06-2021 16:06:486 INFO  TestBase :42 - FAILED ***** : Verify user able to delete place details
+26-06-2021 16:06:248 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:264 INFO  ReusableFunction :162 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+26-06-2021 16:06:341 INFO  ReusableFunction :184 - $_Response_From_API_$ : {"msg":"Delete operation failed, looks like the data doesn't exists"}
+26-06-2021 16:06:502 INFO  TestBase :42 - FAILED ***** : Verify user able to delete place details
+26-06-2021 16:06:712 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:728 INFO  ReusableFunction :162 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+26-06-2021 16:06:826 INFO  ReusableFunction :184 - $_Response_From_API_$ : {"msg":"Delete operation failed, looks like the data doesn't exists"}
+26-06-2021 16:06:832 INFO  TestBase :42 - FAILED ***** : Verify user able to delete place details
+26-06-2021 16:06:437 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:453 INFO  ReusableFunction :162 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+26-06-2021 16:06:857 INFO  ReusableFunction :184 - $_Response_From_API_$ : {"msg":"Delete operation failed, looks like the data doesn't exists"}
+26-06-2021 16:06:875 INFO  TestBase :42 - FAILED ***** : Verify user able to delete place details
+26-06-2021 16:06:935 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:950 INFO  ReusableFunction :162 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+26-06-2021 16:06:904 INFO  ReusableFunction :184 - $_Response_From_API_$ : {"status":"OK"}
+26-06-2021 16:06:458 INFO  TestBase :44 - PASSED ***** : Verify user able to delete place details
+26-06-2021 16:06:892 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:923 INFO  ReusableFunction :87 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=f7c8c9a4ca5f0942459e356968ab2d93&key=qaclick123
+26-06-2021 16:06:65 INFO  ReusableFunction :99 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 16:06:374 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 16:06:971 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:02 INFO  ReusableFunction :35 - $_Post_Request_$ : https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+26-06-2021 16:06:598 INFO  ReusableFunction :68 - $_Response_From_API_$ : {"status":"OK","place_id":"a940f7b45e6ed13162bcda1648f891c2","scope":"APP","reference":"c5e9931a1d0dbcef02c8f8c022c85619c5e9931a1d0dbcef02c8f8c022c85619","id":"c5e9931a1d0dbcef02c8f8c022c85619"}
+26-06-2021 16:06:829 INFO  TestBase :44 - PASSED ***** : Verify user able to post place details
+26-06-2021 16:06:970 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:970 INFO  ReusableFunction :87 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=f7c8c9a4ca5f0942459e356968ab2d93&key=qaclick123
+26-06-2021 16:06:361 INFO  ReusableFunction :99 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 16:06:408 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 16:06:439 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:439 INFO  ReusableFunction :124 - $_Put_Request_$ : https://rahulshettyacademy.com/maps/api/place/update/json?place_id=b4564ff951d354e2983bc6ef77f14a2c&key=qaclick123
+26-06-2021 16:06:830 INFO  ReusableFunction :149 - $_Response_From_API_$ : {"msg":"Address successfully updated"}
+26-06-2021 16:06:854 INFO  TestBase :44 - PASSED ***** : Verify user able to put place details
+26-06-2021 16:06:885 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:885 INFO  ReusableFunction :162 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+26-06-2021 16:06:261 INFO  ReusableFunction :183 - $_Response_From_API_$ : {"status":"OK"}
+26-06-2021 16:06:279 INFO  TestBase :44 - PASSED ***** : Verify user able to delete place details
+26-06-2021 16:06:833 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 16:06:856 INFO  ReusableFunction :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=a95aea84ecff053062c73f9936014d36&key=qaclick123
+26-06-2021 17:06:898 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:923 INFO  ReusableFunction :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=a95aea84ecff053062c73f9936014d36&key=qaclick123
+26-06-2021 17:06:446 INFO  ReusableFunction :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 17:06:132 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 17:06:339 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:417 INFO  ReusableFunction :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=a95aea84ecff053062c73f9936014d36&key=qaclick123
+26-06-2021 17:06:313 INFO  ReusableFunction :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 17:06:512 INFO  ReusableFunction :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 17:06:282 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 17:06:289 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:298 INFO  ReusableFunction :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=a95aea84ecff053062c73f9936014d36&key=qaclick123
+26-06-2021 17:06:223 INFO  ReusableFunction :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 17:06:195 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 17:06:980 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:06 INFO  ReusableFunction :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=a95aea84ecff053062c73f9936014d36&key=qaclick123
+26-06-2021 17:06:150 INFO  ReusableFunction :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 17:06:342 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 17:06:959 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:985 INFO  ReusableFunction :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=a95aea84ecff053062c73f9936014d36&key=qaclick123
+26-06-2021 17:06:798 INFO  ReusableFunction :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 17:06:901 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 17:06:690 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:721 INFO  ReusableFunction :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=a95aea84ecff053062c73f9936014d36&key=qaclick123
+26-06-2021 17:06:807 INFO  ReusableFunction :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 17:06:20 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 17:06:337 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:359 INFO  ReusableFunction :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=a95aea84ecff053062c73f9936014d36&key=qaclick123
+26-06-2021 17:06:414 INFO  ReusableFunction :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 17:06:585 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 17:06:155 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:201 INFO  ReusableFunction :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=a95aea84ecff053062c73f9936014d36&key=qaclick123
+26-06-2021 17:06:152 INFO  ReusableFunction :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 17:06:911 INFO  ReusableFunction :112 - Error occured while check get response
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.List
+26-06-2021 17:06:935 INFO  TestBase :42 - FAILED ***** : Verify user able to get place details
+26-06-2021 17:06:597 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:623 INFO  ReusableFunction :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=a95aea84ecff053062c73f9936014d36&key=qaclick123
+26-06-2021 17:06:901 INFO  ReusableFunction :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 17:06:310 INFO  TestBase :44 - PASSED ***** : Verify user able to get place details
+26-06-2021 17:06:751 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:772 INFO  ReusableFunction :35 - $_Post_Request_$ : https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+26-06-2021 17:06:63 INFO  ReusableFunction :67 - $_Response_From_API_$ : {"status":"OK","place_id":"e7158a1592175a82062a6116a4bafe0f","scope":"APP","reference":"474519bcfc02e7e96e8f5a3cf257564b474519bcfc02e7e96e8f5a3cf257564b","id":"474519bcfc02e7e96e8f5a3cf257564b"}
+26-06-2021 17:06:298 INFO  TestBase :44 - PASSED ***** : Verify user able to post place details
+26-06-2021 17:06:326 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:328 INFO  ReusableFunction :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=a95aea84ecff053062c73f9936014d36&key=qaclick123
+26-06-2021 17:06:750 INFO  ReusableFunction :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+26-06-2021 17:06:119 INFO  TestBase :44 - PASSED ***** : Verify user able to get place details
+26-06-2021 17:06:150 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:153 INFO  ReusableFunction :121 - $_Put_Request_$ : https://rahulshettyacademy.com/maps/api/place/update/json?place_id=0da63b6614801c3c546f2e1f4b975787&key=qaclick123
+26-06-2021 17:06:580 INFO  ReusableFunction :144 - $_Response_From_API_$ : {"msg":"Address successfully updated"}
+26-06-2021 17:06:631 INFO  TestBase :44 - PASSED ***** : Verify user able to put place details
+26-06-2021 17:06:798 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+26-06-2021 17:06:798 INFO  ReusableFunction :157 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+26-06-2021 17:06:494 INFO  ReusableFunction :178 - $_Response_From_API_$ : {"status":"OK"}
+26-06-2021 17:06:533 INFO  TestBase :44 - PASSED ***** : Verify user able to delete place details
+28-06-2021 08:06:93 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+28-06-2021 08:06:172 INFO  RestCallProcess :35 - $_Post_Request_$ : https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+28-06-2021 08:06:633 INFO  RestCallProcess :67 - $_Response_From_API_$ : {"status":"OK","place_id":"4309785279468e9a2c8536ffa253eead","scope":"APP","reference":"4634d2202bf0e1f5d44aea35b2d511ad4634d2202bf0e1f5d44aea35b2d511ad","id":"4634d2202bf0e1f5d44aea35b2d511ad"}
+28-06-2021 08:06:295 INFO  TestBase :44 - PASSED ***** : Verify user able to create place details
+28-06-2021 08:06:324 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+28-06-2021 08:06:327 INFO  RestCallProcess :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=1dd0050e8bd0f7a9d18f3f8a4adb0f0e&key=qaclick123
+28-06-2021 08:06:740 INFO  RestCallProcess :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+28-06-2021 08:06:77 INFO  TestBase :44 - PASSED ***** : Verify user able to read place details
+28-06-2021 08:06:99 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+28-06-2021 08:06:101 INFO  RestCallProcess :121 - $_Put_Request_$ : https://rahulshettyacademy.com/maps/api/place/update/json?place_id=99d60fb8b9537752f5a49dab98f81afe&key=qaclick123
+28-06-2021 08:06:617 INFO  RestCallProcess :144 - $_Response_From_API_$ : {"msg":"Address successfully updated"}
+28-06-2021 08:06:668 INFO  TestBase :44 - PASSED ***** : Verify user able to update place details
+28-06-2021 08:06:761 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+28-06-2021 08:06:765 INFO  RestCallProcess :157 - $_Delete_Request_$ : https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+28-06-2021 08:06:187 INFO  RestCallProcess :178 - $_Response_From_API_$ : {"status":"OK"}
+28-06-2021 08:06:237 INFO  TestBase :44 - PASSED ***** : Verify user able to delete place details
+09-07-2021 22:07:320 INFO  TestBase :65 - ======================== [ Property File Load Successful ] ========================
+09-07-2021 22:07:527 INFO  RestCallProcess :85 - $_Get_Request_$ : https://rahulshettyacademy.com/maps/api/place/get/json?place_id=1dd0050e8bd0f7a9d18f3f8a4adb0f0e&key=qaclick123
+09-07-2021 22:07:702 INFO  RestCallProcess :97 - $_Response_From_API_$ : {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+09-07-2021 22:07:816 INFO  TestBase :44 - PASSED ***** : Verify user able to read place details
